@@ -1,0 +1,7 @@
+name = "bpb-worker-panel"
+main = "dist/worker.js"
+compatibility_date = "2026-09-15"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+UUID = "b5003c12-5fd7-49bb-a727-2ffe516ddd0d"
